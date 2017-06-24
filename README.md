@@ -11,7 +11,7 @@ Cloud-JAM is the product accelerator (production grade solution) of ST functiona
 
 At a firmware level the Cloud-Jam works the same way as those 4 hardware combined.
 
-So any project or binary created for STM32F401RE microcontroller can run or be debugged on the Cloud- JAM.
+So any project or binary created for STM32F401RE microcontroller can run or be debugged on the Cloud-JAM.
 
 You can find functional pack applications and sources [HERE](http://www.st.com/en/evaluation-tools/p-nucleo-cld1.html)
 
