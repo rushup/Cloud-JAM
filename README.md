@@ -14,6 +14,7 @@ At a firmware level the Cloud-Jam works the same way as those 4 hardware combine
 So any project or binary created for STM32F401RE microcontroller can run or be debugged on the Cloud-JAM.
 
 You can find functional pack applications and sources [HERE](http://www.st.com/en/evaluation-tools/p-nucleo-cld1.html)
+or if you are not familiar with stm32 check the [Getting started guide](https://github.com/rushup/Cloud-JAM/wiki/Getting-started-with-Cloud-JAM)
 
 # FAQ
 
