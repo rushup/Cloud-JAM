@@ -11,10 +11,14 @@ Cloud-JAM is the product accelerator (production grade solution) of ST functiona
 
 At a firmware level the Cloud-Jam works the same way as those 4 hardware combined.
 
-So any project or binary created for STM32F401RE microcontroller can run or be debugged on the Cloud-JAM.
+Like NUCLEO F401RE, the Cloud-JAM is based on a STM32F401RE microcontroller.
 
-You can find functional pack applications and sources [HERE](http://www.st.com/en/evaluation-tools/p-nucleo-cld1.html)
-or if you are not familiar with stm32 check the [Getting started guide](https://github.com/rushup/Cloud-JAM/wiki/Getting-started-with-Cloud-JAM)
+You can find functional pack applications and sources [HERE](http://www.st.com/en/evaluation-tools/p-nucleo-cld1.html).
+
+if you are not familiar with STM32 check the these tutorials:
+
+- [Getting started guide](https://github.com/rushup/Cloud-JAM/wiki/Getting-started-with-Cloud-JAM)
+- [RushUp Cloud-JAM connected with IBM Watson](https://developer.ibm.com/recipes/tutorials/rushup-cloudjam-connected-with-ibm-watson/)
 
 # FAQ
 
@@ -39,4 +43,3 @@ The main differences are:
 <a href="https://catalog.azureiotsuite.com/details?title=Cloud_JAM">
 <img src="https://raw.githubusercontent.com/wiki/rushup/kitra/azure-res/Microsoft_Azure_Certified_RGB.png">
 </a>
-
